@@ -1,0 +1,486 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+609,613,441417,Incoordination,outcome
+609,613,73564,Full thickness rotator cuff tear,outcome
+609,613,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
+609,613,132736,Bacteremia,outcome
+609,613,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
+609,613,4344500,Impingement syndrome of shoulder region,outcome
+609,613,439082,Menopausal syndrome,outcome
+609,613,4213540,Cervical somatic dysfunction,outcome
+609,613,437390,Hypoxemia,outcome
+609,613,200848,Dribbling of urine,outcome
+609,613,432596,Immune defect,outcome
+609,613,4201387,Tracheostomy present,outcome
+609,613,4112026,Sequelae of cerebral infarction,outcome
+609,613,4262562,Abnormal heart beat,outcome
+609,613,432587,Polyclonal hypergammaglobulinemia,outcome
+609,613,4216432,"5,10-Methylenetetrahydrofolate reductase deficiency",outcome
+609,613,440068,Psychosexual dysfunction,outcome
+609,613,373105,Disorders of prostheses and implants of the nervous system,outcome
+609,613,381021,Lagophthalmos,outcome
+609,613,435080,Biliuria,outcome
+609,613,377572,Noise effects on inner ear,outcome
+609,613,436409,Abnormal pupil,outcome
+609,613,433447,Tophus,outcome
+609,613,4219643,Muscle fasciculation,outcome
+609,613,138056,Subcutaneous emphysema resulting from a procedure,outcome
+609,613,443447,Iatrogenic hypotension,outcome
+609,613,200215,Abdominal rigidity,outcome
+609,613,374957,Acquired stenosis of external ear canal,outcome
+609,613,443172,"Splinter of face, without major open wound",outcome
+609,613,438262,Chyluria,outcome
+609,613,437078,Large head,outcome
+609,613,4193868,"Sedative, hypnotic AND/OR anxiolytic-related disorder",outcome
+609,613,440193,Wristdrop,outcome
+609,613,372329,Dissociated deviation,outcome
+609,613,36714927,Sequelae of infectious disease,outcome
+609,613,137682,Skin sensation disturbance,outcome
+609,613,439795,Minimal cognitive impairment,outcome
+609,613,440693,Continuous opioid dependence,outcome
+609,613,4088290,Absence of breast,outcome
+609,613,4083487,Macular drusen,outcome
+609,613,4295287,Hypercoagulability state,outcome
+609,613,374801,Foreign body in ear,outcome
+609,613,440387,Cannabis dependence,outcome
+609,613,439790,Psychalgia,outcome
+609,613,201606,Crohn's disease,outcome
+609,613,436389,Cocaine dependence,outcome
+609,613,72415,Synovial plica,outcome
+609,613,4125590,Slurred speech,outcome
+609,613,4103642,Amputated toe,outcome
+609,613,432508,"Mechanical complication of nervous system device, implant AND/OR graft",outcome
+609,613,77650,Aseptic necrosis of bone,outcome
+609,613,4264617,Foot-drop,outcome
+609,613,441536,Mixed acid-base balance disorder,outcome
+609,613,133088,Late amputation stump complication,outcome
+609,613,434814,Late effect of medical and surgical care complication,outcome
+609,613,4062791,"Endocrine, nutritional and metabolic disease complicating pregnancy, childbirth and puerperium",outcome
+609,613,372651,Chronic mastoiditis,outcome
+609,613,44783954,Acid reflux,outcome
+609,613,133848,Slipped upper femoral epiphysis,outcome
+609,613,4216493,Cocaine withdrawal,outcome
+609,613,439743,Late effects of respiratory tuberculosis,outcome
+609,613,4298207,Mouth breathing,outcome
+609,613,134315,Myelophthisis,outcome
+609,613,4081461,Irregular eye movements,outcome
+609,613,438759,Descemet's membrane fold,outcome
+609,613,375277,Non-infectious pinna disorders,outcome
+609,613,374139,Buphthalmos,outcome
+609,613,4090271,Choroidal atrophy,outcome
+609,613,4142195,Complication of anesthesia,outcome
+609,613,4101287,Sequelae of protein-energy malnutrition,outcome
+609,613,4111721,Sequelae of intracerebral hemorrhage,outcome
+609,613,4048923,Perinatal endocrine and metabolic disorders,outcome
+609,613,436426,Malleus mobility reduced,outcome
+609,613,435299,Failure of dental prosthesis,outcome
+609,613,4104132,Vomit contains feces,outcome
+609,613,4207606,Complication of artificial skin graft and decellularized allodermis,outcome
+609,613,437061,"Retracted nipple in pregnancy, the puerperium or lactation",outcome
+609,613,4173459,Methylmalonic acidemia,outcome
+609,613,436041,Leech infestation,outcome
+609,613,201091,Disproportion - major pelvic abnormality,outcome
+609,613,4215568,Sensory disturbance in limb,outcome
+609,613,4151248,Non-fatal electric shock,outcome
+609,613,433542,Precipitate labor,outcome
+609,613,4309418,Spiritual beliefs conflicting with healthcare plan,outcome
+609,613,315531,Respiration intermittent,outcome
+609,613,439788,Galactosemia,outcome
+609,613,438624,Complication of renal dialysis,outcome
+609,613,4067861,Deviation of finger,outcome
+609,613,4210746,Localized amyloidosis,outcome
+609,613,4035269,Non-ketotic hyperglycinemia,outcome
+609,613,433441,Ectopic production of endocrine substance,outcome
+609,613,4175583,3-Methylglutaconic aciduria type 2,outcome
+609,613,45772079,Retinopathy of prematurity stage 0,outcome
+609,613,435574,Abnormal form of root of tooth,outcome
+609,613,435843,Non-working interference functional occlusion,outcome
+609,613,40480271,Extra unidentified structurally abnormal chromosome,outcome
+609,613,4051368,Deficiency of catalase,outcome
+678,613,441417,Incoordination,outcome
+678,613,73564,Full thickness rotator cuff tear,outcome
+678,613,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
+678,613,132736,Bacteremia,outcome
+678,613,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
+678,613,4344500,Impingement syndrome of shoulder region,outcome
+678,613,439082,Menopausal syndrome,outcome
+678,613,4213540,Cervical somatic dysfunction,outcome
+678,613,437390,Hypoxemia,outcome
+678,613,200848,Dribbling of urine,outcome
+678,613,432596,Immune defect,outcome
+678,613,4201387,Tracheostomy present,outcome
+678,613,4112026,Sequelae of cerebral infarction,outcome
+678,613,4262562,Abnormal heart beat,outcome
+678,613,432587,Polyclonal hypergammaglobulinemia,outcome
+678,613,4216432,"5,10-Methylenetetrahydrofolate reductase deficiency",outcome
+678,613,440068,Psychosexual dysfunction,outcome
+678,613,373105,Disorders of prostheses and implants of the nervous system,outcome
+678,613,381021,Lagophthalmos,outcome
+678,613,435080,Biliuria,outcome
+678,613,377572,Noise effects on inner ear,outcome
+678,613,436409,Abnormal pupil,outcome
+678,613,433447,Tophus,outcome
+678,613,4219643,Muscle fasciculation,outcome
+678,613,138056,Subcutaneous emphysema resulting from a procedure,outcome
+678,613,443447,Iatrogenic hypotension,outcome
+678,613,200215,Abdominal rigidity,outcome
+678,613,374957,Acquired stenosis of external ear canal,outcome
+678,613,443172,"Splinter of face, without major open wound",outcome
+678,613,438262,Chyluria,outcome
+678,613,437078,Large head,outcome
+678,613,4193868,"Sedative, hypnotic AND/OR anxiolytic-related disorder",outcome
+678,613,440193,Wristdrop,outcome
+678,613,372329,Dissociated deviation,outcome
+678,613,36714927,Sequelae of infectious disease,outcome
+678,613,137682,Skin sensation disturbance,outcome
+678,613,439795,Minimal cognitive impairment,outcome
+678,613,440693,Continuous opioid dependence,outcome
+678,613,4088290,Absence of breast,outcome
+678,613,4083487,Macular drusen,outcome
+678,613,4295287,Hypercoagulability state,outcome
+678,613,374801,Foreign body in ear,outcome
+678,613,440387,Cannabis dependence,outcome
+678,613,439790,Psychalgia,outcome
+678,613,201606,Crohn's disease,outcome
+678,613,436389,Cocaine dependence,outcome
+678,613,72415,Synovial plica,outcome
+678,613,4125590,Slurred speech,outcome
+678,613,4103642,Amputated toe,outcome
+678,613,432508,"Mechanical complication of nervous system device, implant AND/OR graft",outcome
+678,613,77650,Aseptic necrosis of bone,outcome
+678,613,4264617,Foot-drop,outcome
+678,613,441536,Mixed acid-base balance disorder,outcome
+678,613,133088,Late amputation stump complication,outcome
+678,613,434814,Late effect of medical and surgical care complication,outcome
+678,613,4062791,"Endocrine, nutritional and metabolic disease complicating pregnancy, childbirth and puerperium",outcome
+678,613,372651,Chronic mastoiditis,outcome
+678,613,44783954,Acid reflux,outcome
+678,613,133848,Slipped upper femoral epiphysis,outcome
+678,613,4216493,Cocaine withdrawal,outcome
+678,613,439743,Late effects of respiratory tuberculosis,outcome
+678,613,4298207,Mouth breathing,outcome
+678,613,134315,Myelophthisis,outcome
+678,613,4081461,Irregular eye movements,outcome
+678,613,438759,Descemet's membrane fold,outcome
+678,613,375277,Non-infectious pinna disorders,outcome
+678,613,374139,Buphthalmos,outcome
+678,613,4090271,Choroidal atrophy,outcome
+678,613,4142195,Complication of anesthesia,outcome
+678,613,4101287,Sequelae of protein-energy malnutrition,outcome
+678,613,4111721,Sequelae of intracerebral hemorrhage,outcome
+678,613,4048923,Perinatal endocrine and metabolic disorders,outcome
+678,613,436426,Malleus mobility reduced,outcome
+678,613,435299,Failure of dental prosthesis,outcome
+678,613,4104132,Vomit contains feces,outcome
+678,613,4207606,Complication of artificial skin graft and decellularized allodermis,outcome
+678,613,437061,"Retracted nipple in pregnancy, the puerperium or lactation",outcome
+678,613,4173459,Methylmalonic acidemia,outcome
+678,613,436041,Leech infestation,outcome
+678,613,201091,Disproportion - major pelvic abnormality,outcome
+678,613,4215568,Sensory disturbance in limb,outcome
+678,613,4151248,Non-fatal electric shock,outcome
+678,613,433542,Precipitate labor,outcome
+678,613,4309418,Spiritual beliefs conflicting with healthcare plan,outcome
+678,613,315531,Respiration intermittent,outcome
+678,613,439788,Galactosemia,outcome
+678,613,438624,Complication of renal dialysis,outcome
+678,613,4067861,Deviation of finger,outcome
+678,613,4210746,Localized amyloidosis,outcome
+678,613,4035269,Non-ketotic hyperglycinemia,outcome
+678,613,433441,Ectopic production of endocrine substance,outcome
+678,613,4175583,3-Methylglutaconic aciduria type 2,outcome
+678,613,45772079,Retinopathy of prematurity stage 0,outcome
+678,613,435574,Abnormal form of root of tooth,outcome
+678,613,435843,Non-working interference functional occlusion,outcome
+678,613,40480271,Extra unidentified structurally abnormal chromosome,outcome
+678,613,4051368,Deficiency of catalase,outcome
+679,613,441417,Incoordination,outcome
+679,613,73564,Full thickness rotator cuff tear,outcome
+679,613,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
+679,613,132736,Bacteremia,outcome
+679,613,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
+679,613,4344500,Impingement syndrome of shoulder region,outcome
+679,613,439082,Menopausal syndrome,outcome
+679,613,4213540,Cervical somatic dysfunction,outcome
+679,613,437390,Hypoxemia,outcome
+679,613,200848,Dribbling of urine,outcome
+679,613,432596,Immune defect,outcome
+679,613,4201387,Tracheostomy present,outcome
+679,613,4112026,Sequelae of cerebral infarction,outcome
+679,613,4262562,Abnormal heart beat,outcome
+679,613,432587,Polyclonal hypergammaglobulinemia,outcome
+679,613,4216432,"5,10-Methylenetetrahydrofolate reductase deficiency",outcome
+679,613,440068,Psychosexual dysfunction,outcome
+679,613,373105,Disorders of prostheses and implants of the nervous system,outcome
+679,613,381021,Lagophthalmos,outcome
+679,613,435080,Biliuria,outcome
+679,613,377572,Noise effects on inner ear,outcome
+679,613,436409,Abnormal pupil,outcome
+679,613,433447,Tophus,outcome
+679,613,4219643,Muscle fasciculation,outcome
+679,613,138056,Subcutaneous emphysema resulting from a procedure,outcome
+679,613,443447,Iatrogenic hypotension,outcome
+679,613,200215,Abdominal rigidity,outcome
+679,613,374957,Acquired stenosis of external ear canal,outcome
+679,613,443172,"Splinter of face, without major open wound",outcome
+679,613,438262,Chyluria,outcome
+679,613,437078,Large head,outcome
+679,613,4193868,"Sedative, hypnotic AND/OR anxiolytic-related disorder",outcome
+679,613,440193,Wristdrop,outcome
+679,613,372329,Dissociated deviation,outcome
+679,613,36714927,Sequelae of infectious disease,outcome
+679,613,137682,Skin sensation disturbance,outcome
+679,613,439795,Minimal cognitive impairment,outcome
+679,613,440693,Continuous opioid dependence,outcome
+679,613,4088290,Absence of breast,outcome
+679,613,4083487,Macular drusen,outcome
+679,613,4295287,Hypercoagulability state,outcome
+679,613,374801,Foreign body in ear,outcome
+679,613,440387,Cannabis dependence,outcome
+679,613,439790,Psychalgia,outcome
+679,613,201606,Crohn's disease,outcome
+679,613,436389,Cocaine dependence,outcome
+679,613,72415,Synovial plica,outcome
+679,613,4125590,Slurred speech,outcome
+679,613,4103642,Amputated toe,outcome
+679,613,432508,"Mechanical complication of nervous system device, implant AND/OR graft",outcome
+679,613,77650,Aseptic necrosis of bone,outcome
+679,613,4264617,Foot-drop,outcome
+679,613,441536,Mixed acid-base balance disorder,outcome
+679,613,133088,Late amputation stump complication,outcome
+679,613,434814,Late effect of medical and surgical care complication,outcome
+679,613,4062791,"Endocrine, nutritional and metabolic disease complicating pregnancy, childbirth and puerperium",outcome
+679,613,372651,Chronic mastoiditis,outcome
+679,613,44783954,Acid reflux,outcome
+679,613,133848,Slipped upper femoral epiphysis,outcome
+679,613,4216493,Cocaine withdrawal,outcome
+679,613,439743,Late effects of respiratory tuberculosis,outcome
+679,613,4298207,Mouth breathing,outcome
+679,613,134315,Myelophthisis,outcome
+679,613,4081461,Irregular eye movements,outcome
+679,613,438759,Descemet's membrane fold,outcome
+679,613,375277,Non-infectious pinna disorders,outcome
+679,613,374139,Buphthalmos,outcome
+679,613,4090271,Choroidal atrophy,outcome
+679,613,4142195,Complication of anesthesia,outcome
+679,613,4101287,Sequelae of protein-energy malnutrition,outcome
+679,613,4111721,Sequelae of intracerebral hemorrhage,outcome
+679,613,4048923,Perinatal endocrine and metabolic disorders,outcome
+679,613,436426,Malleus mobility reduced,outcome
+679,613,435299,Failure of dental prosthesis,outcome
+679,613,4104132,Vomit contains feces,outcome
+679,613,4207606,Complication of artificial skin graft and decellularized allodermis,outcome
+679,613,437061,"Retracted nipple in pregnancy, the puerperium or lactation",outcome
+679,613,4173459,Methylmalonic acidemia,outcome
+679,613,436041,Leech infestation,outcome
+679,613,201091,Disproportion - major pelvic abnormality,outcome
+679,613,4215568,Sensory disturbance in limb,outcome
+679,613,4151248,Non-fatal electric shock,outcome
+679,613,433542,Precipitate labor,outcome
+679,613,4309418,Spiritual beliefs conflicting with healthcare plan,outcome
+679,613,315531,Respiration intermittent,outcome
+679,613,439788,Galactosemia,outcome
+679,613,438624,Complication of renal dialysis,outcome
+679,613,4067861,Deviation of finger,outcome
+679,613,4210746,Localized amyloidosis,outcome
+679,613,4035269,Non-ketotic hyperglycinemia,outcome
+679,613,433441,Ectopic production of endocrine substance,outcome
+679,613,4175583,3-Methylglutaconic aciduria type 2,outcome
+679,613,45772079,Retinopathy of prematurity stage 0,outcome
+679,613,435574,Abnormal form of root of tooth,outcome
+679,613,435843,Non-working interference functional occlusion,outcome
+679,613,40480271,Extra unidentified structurally abnormal chromosome,outcome
+679,613,4051368,Deficiency of catalase,outcome
+709,613,441417,Incoordination,outcome
+709,613,73564,Full thickness rotator cuff tear,outcome
+709,613,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
+709,613,132736,Bacteremia,outcome
+709,613,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
+709,613,4344500,Impingement syndrome of shoulder region,outcome
+709,613,439082,Menopausal syndrome,outcome
+709,613,4213540,Cervical somatic dysfunction,outcome
+709,613,437390,Hypoxemia,outcome
+709,613,200848,Dribbling of urine,outcome
+709,613,432596,Immune defect,outcome
+709,613,4201387,Tracheostomy present,outcome
+709,613,4112026,Sequelae of cerebral infarction,outcome
+709,613,4262562,Abnormal heart beat,outcome
+709,613,432587,Polyclonal hypergammaglobulinemia,outcome
+709,613,4216432,"5,10-Methylenetetrahydrofolate reductase deficiency",outcome
+709,613,440068,Psychosexual dysfunction,outcome
+709,613,373105,Disorders of prostheses and implants of the nervous system,outcome
+709,613,381021,Lagophthalmos,outcome
+709,613,435080,Biliuria,outcome
+709,613,377572,Noise effects on inner ear,outcome
+709,613,436409,Abnormal pupil,outcome
+709,613,433447,Tophus,outcome
+709,613,4219643,Muscle fasciculation,outcome
+709,613,138056,Subcutaneous emphysema resulting from a procedure,outcome
+709,613,443447,Iatrogenic hypotension,outcome
+709,613,200215,Abdominal rigidity,outcome
+709,613,374957,Acquired stenosis of external ear canal,outcome
+709,613,443172,"Splinter of face, without major open wound",outcome
+709,613,438262,Chyluria,outcome
+709,613,437078,Large head,outcome
+709,613,4193868,"Sedative, hypnotic AND/OR anxiolytic-related disorder",outcome
+709,613,440193,Wristdrop,outcome
+709,613,372329,Dissociated deviation,outcome
+709,613,36714927,Sequelae of infectious disease,outcome
+709,613,137682,Skin sensation disturbance,outcome
+709,613,439795,Minimal cognitive impairment,outcome
+709,613,440693,Continuous opioid dependence,outcome
+709,613,4088290,Absence of breast,outcome
+709,613,4083487,Macular drusen,outcome
+709,613,4295287,Hypercoagulability state,outcome
+709,613,374801,Foreign body in ear,outcome
+709,613,440387,Cannabis dependence,outcome
+709,613,439790,Psychalgia,outcome
+709,613,201606,Crohn's disease,outcome
+709,613,436389,Cocaine dependence,outcome
+709,613,72415,Synovial plica,outcome
+709,613,4125590,Slurred speech,outcome
+709,613,4103642,Amputated toe,outcome
+709,613,432508,"Mechanical complication of nervous system device, implant AND/OR graft",outcome
+709,613,77650,Aseptic necrosis of bone,outcome
+709,613,4264617,Foot-drop,outcome
+709,613,441536,Mixed acid-base balance disorder,outcome
+709,613,133088,Late amputation stump complication,outcome
+709,613,434814,Late effect of medical and surgical care complication,outcome
+709,613,4062791,"Endocrine, nutritional and metabolic disease complicating pregnancy, childbirth and puerperium",outcome
+709,613,372651,Chronic mastoiditis,outcome
+709,613,44783954,Acid reflux,outcome
+709,613,133848,Slipped upper femoral epiphysis,outcome
+709,613,4216493,Cocaine withdrawal,outcome
+709,613,439743,Late effects of respiratory tuberculosis,outcome
+709,613,4298207,Mouth breathing,outcome
+709,613,134315,Myelophthisis,outcome
+709,613,4081461,Irregular eye movements,outcome
+709,613,438759,Descemet's membrane fold,outcome
+709,613,375277,Non-infectious pinna disorders,outcome
+709,613,374139,Buphthalmos,outcome
+709,613,4090271,Choroidal atrophy,outcome
+709,613,4142195,Complication of anesthesia,outcome
+709,613,4101287,Sequelae of protein-energy malnutrition,outcome
+709,613,4111721,Sequelae of intracerebral hemorrhage,outcome
+709,613,4048923,Perinatal endocrine and metabolic disorders,outcome
+709,613,436426,Malleus mobility reduced,outcome
+709,613,435299,Failure of dental prosthesis,outcome
+709,613,4104132,Vomit contains feces,outcome
+709,613,4207606,Complication of artificial skin graft and decellularized allodermis,outcome
+709,613,437061,"Retracted nipple in pregnancy, the puerperium or lactation",outcome
+709,613,4173459,Methylmalonic acidemia,outcome
+709,613,436041,Leech infestation,outcome
+709,613,201091,Disproportion - major pelvic abnormality,outcome
+709,613,4215568,Sensory disturbance in limb,outcome
+709,613,4151248,Non-fatal electric shock,outcome
+709,613,433542,Precipitate labor,outcome
+709,613,4309418,Spiritual beliefs conflicting with healthcare plan,outcome
+709,613,315531,Respiration intermittent,outcome
+709,613,439788,Galactosemia,outcome
+709,613,438624,Complication of renal dialysis,outcome
+709,613,4067861,Deviation of finger,outcome
+709,613,4210746,Localized amyloidosis,outcome
+709,613,4035269,Non-ketotic hyperglycinemia,outcome
+709,613,433441,Ectopic production of endocrine substance,outcome
+709,613,4175583,3-Methylglutaconic aciduria type 2,outcome
+709,613,45772079,Retinopathy of prematurity stage 0,outcome
+709,613,435574,Abnormal form of root of tooth,outcome
+709,613,435843,Non-working interference functional occlusion,outcome
+709,613,40480271,Extra unidentified structurally abnormal chromosome,outcome
+709,613,4051368,Deficiency of catalase,outcome
+703,613,441417,Incoordination,outcome
+703,613,73564,Full thickness rotator cuff tear,outcome
+703,613,440233,Strain of supraspinatus muscle AND/OR tendon,outcome
+703,613,132736,Bacteremia,outcome
+703,613,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
+703,613,4344500,Impingement syndrome of shoulder region,outcome
+703,613,439082,Menopausal syndrome,outcome
+703,613,4213540,Cervical somatic dysfunction,outcome
+703,613,437390,Hypoxemia,outcome
+703,613,200848,Dribbling of urine,outcome
+703,613,432596,Immune defect,outcome
+703,613,4201387,Tracheostomy present,outcome
+703,613,4112026,Sequelae of cerebral infarction,outcome
+703,613,4262562,Abnormal heart beat,outcome
+703,613,432587,Polyclonal hypergammaglobulinemia,outcome
+703,613,4216432,"5,10-Methylenetetrahydrofolate reductase deficiency",outcome
+703,613,440068,Psychosexual dysfunction,outcome
+703,613,373105,Disorders of prostheses and implants of the nervous system,outcome
+703,613,381021,Lagophthalmos,outcome
+703,613,435080,Biliuria,outcome
+703,613,377572,Noise effects on inner ear,outcome
+703,613,436409,Abnormal pupil,outcome
+703,613,433447,Tophus,outcome
+703,613,4219643,Muscle fasciculation,outcome
+703,613,138056,Subcutaneous emphysema resulting from a procedure,outcome
+703,613,443447,Iatrogenic hypotension,outcome
+703,613,200215,Abdominal rigidity,outcome
+703,613,374957,Acquired stenosis of external ear canal,outcome
+703,613,443172,"Splinter of face, without major open wound",outcome
+703,613,438262,Chyluria,outcome
+703,613,437078,Large head,outcome
+703,613,4193868,"Sedative, hypnotic AND/OR anxiolytic-related disorder",outcome
+703,613,440193,Wristdrop,outcome
+703,613,372329,Dissociated deviation,outcome
+703,613,36714927,Sequelae of infectious disease,outcome
+703,613,137682,Skin sensation disturbance,outcome
+703,613,439795,Minimal cognitive impairment,outcome
+703,613,440693,Continuous opioid dependence,outcome
+703,613,4088290,Absence of breast,outcome
+703,613,4083487,Macular drusen,outcome
+703,613,4295287,Hypercoagulability state,outcome
+703,613,374801,Foreign body in ear,outcome
+703,613,440387,Cannabis dependence,outcome
+703,613,439790,Psychalgia,outcome
+703,613,201606,Crohn's disease,outcome
+703,613,436389,Cocaine dependence,outcome
+703,613,72415,Synovial plica,outcome
+703,613,4125590,Slurred speech,outcome
+703,613,4103642,Amputated toe,outcome
+703,613,432508,"Mechanical complication of nervous system device, implant AND/OR graft",outcome
+703,613,77650,Aseptic necrosis of bone,outcome
+703,613,4264617,Foot-drop,outcome
+703,613,441536,Mixed acid-base balance disorder,outcome
+703,613,133088,Late amputation stump complication,outcome
+703,613,434814,Late effect of medical and surgical care complication,outcome
+703,613,4062791,"Endocrine, nutritional and metabolic disease complicating pregnancy, childbirth and puerperium",outcome
+703,613,372651,Chronic mastoiditis,outcome
+703,613,44783954,Acid reflux,outcome
+703,613,133848,Slipped upper femoral epiphysis,outcome
+703,613,4216493,Cocaine withdrawal,outcome
+703,613,439743,Late effects of respiratory tuberculosis,outcome
+703,613,4298207,Mouth breathing,outcome
+703,613,134315,Myelophthisis,outcome
+703,613,4081461,Irregular eye movements,outcome
+703,613,438759,Descemet's membrane fold,outcome
+703,613,375277,Non-infectious pinna disorders,outcome
+703,613,374139,Buphthalmos,outcome
+703,613,4090271,Choroidal atrophy,outcome
+703,613,4142195,Complication of anesthesia,outcome
+703,613,4101287,Sequelae of protein-energy malnutrition,outcome
+703,613,4111721,Sequelae of intracerebral hemorrhage,outcome
+703,613,4048923,Perinatal endocrine and metabolic disorders,outcome
+703,613,436426,Malleus mobility reduced,outcome
+703,613,435299,Failure of dental prosthesis,outcome
+703,613,4104132,Vomit contains feces,outcome
+703,613,4207606,Complication of artificial skin graft and decellularized allodermis,outcome
+703,613,437061,"Retracted nipple in pregnancy, the puerperium or lactation",outcome
+703,613,4173459,Methylmalonic acidemia,outcome
+703,613,436041,Leech infestation,outcome
+703,613,201091,Disproportion - major pelvic abnormality,outcome
+703,613,4215568,Sensory disturbance in limb,outcome
+703,613,4151248,Non-fatal electric shock,outcome
+703,613,433542,Precipitate labor,outcome
+703,613,4309418,Spiritual beliefs conflicting with healthcare plan,outcome
+703,613,315531,Respiration intermittent,outcome
+703,613,439788,Galactosemia,outcome
+703,613,438624,Complication of renal dialysis,outcome
+703,613,4067861,Deviation of finger,outcome
+703,613,4210746,Localized amyloidosis,outcome
+703,613,4035269,Non-ketotic hyperglycinemia,outcome
+703,613,433441,Ectopic production of endocrine substance,outcome
+703,613,4175583,3-Methylglutaconic aciduria type 2,outcome
+703,613,45772079,Retinopathy of prematurity stage 0,outcome
+703,613,435574,Abnormal form of root of tooth,outcome
+703,613,435843,Non-working interference functional occlusion,outcome
+703,613,40480271,Extra unidentified structurally abnormal chromosome,outcome
+703,613,4051368,Deficiency of catalase,outcome
